@@ -2,5 +2,5 @@
 #![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
 
 fn main() {
-    dizangjing_app_lib::run()
+    huangtingjing_app_lib::run()
 }

@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "地藏经",
+      "name": "黄庭经",
       "devDependencies": {
         "@tauri-apps/cli": "^2",
       },
