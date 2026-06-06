@@ -1,0 +1,17 @@
+{
+  "bookmarks": [
+    {
+      "filePath": "src\\sitemap.xsl",
+      "bookmarks": [
+        {
+          "lineNumber": 11,
+          "content": "<meta http-equiv=\"Content-Type\" content=\"t"
+        }
+      ],
+      "group": "默认"
+    }
+  ],
+  "groups": [
+    "默认"
+  ]
+}
