@@ -5114,7 +5114,7 @@ dependencies = [
 
 [[package]]
 name = "黄庭经"
-version = "1.1.8"
+version = "1.2.8"
 dependencies = [
  "serde",
  "serde_json",
